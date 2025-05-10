@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "title": "Dune: Part Two",
+        "author": "Denis Villeneuve",
+        "description": "The sequel to the 2021 epic, continuing Paul Atreides' journey as he unites with the Fremen to seek revenge against those who destroyed his family.",
+        "image": "images/dune2.jpg",
+        "genre": "Sci-Fi",
+        "releaseDate": "November 2024"
+    },
+    {
+        "id": 2,
+        "title": "Avatar 3",
+        "author": "James Cameron",
+        "description": "The third installment in the Avatar series, exploring new regions of Pandora and the ongoing conflict with humanity.",
+        "image": "images/avatar3.jpg",
+        "genre": "Sci-Fi, Adventure",
+        "releaseDate": "December 2025"
+    },
+    {
+        "id": 3,
+        "title": "Mission: Impossible – Dead Reckoning Part Two",
+        "author": "Christopher McQuarrie",
+        "description": "Ethan Hunt and his team face their most dangerous mission yet in this thrilling conclusion to the Dead Reckoning saga.",
+        "image": "images/mission_impossible.jpg",
+        "genre": "Action, Thriller",
+        "releaseDate": "June 2025"
+    },
+    {
+        "id": 4,
+        "title": "Avengers: The Kang Dynasty",
+        "author": "Destin Daniel Cretton",
+        "description": "Earth's mightiest heroes assemble once again to face Kang the Conqueror in this epic Marvel crossover event.",
+        "image": "images/avengers_kang.jpg",
+        "genre": "Action, Superhero",
+        "releaseDate": "May 2026"
+    },
+    {
+        "id": 5,
+        "title": "The Batman: Part II",
+        "author": "Matt Reeves",
+        "description": "Bruce Wayne continues his journey as Gotham's protector, facing new challenges and villains.",
+        "image": "images/batman2.jpg",
+        "genre": "Action, Superhero",
+        "releaseDate": "October 2025"
+    },
+    {
+        "id": 6,
+        "title": "Fantastic Beasts 4",
+        "author": "David Yates",
+        "description": "The next chapter in the magical world of Fantastic Beasts, exploring the wizarding world's history.",
+        "image": "images/fantastic_beasts4.jpg",
+        "genre": "Fantasy, Adventure",
+        "releaseDate": "July 2025"
+    },
+    {
+        "id": 7,
+        "title": "John Wick: Chapter 5",
+        "author": "Chad Stahelski",
+        "description": "John Wick returns for another action-packed chapter, taking on new enemies and challenges.",
+        "image": "images/john_wick5.jpg",
+        "genre": "Action, Thriller",
+        "releaseDate": "March 2026"
+    },
+    {
+        "id": 8,
+        "title": "Frozen III",
+        "author": "Chris Buck, Jennifer Lee",
+        "description": "Anna, Elsa, and friends embark on a new adventure in the magical world of Arendelle.",
+        "image": "images/frozen3.jpg",
+        "genre": "Animation, Family",
+        "releaseDate": "December 2025"
+    }
+]
