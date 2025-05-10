@@ -1,0 +1,20 @@
+{
+    "name": "web-mini-project",
+    "version": "1.0.0",
+    "description": "Upcoming Movies Website",
+    "main": "index.html",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matin235-ops/web-mini-project.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/matin235-ops/web-mini-project/issues"
+    },
+    "homepage": "https://github.com/matin235-ops/web-mini-project#readme"
+}
