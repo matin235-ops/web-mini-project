@@ -1,6 +1,12 @@
 pipeline {
     agent any
     
+    triggers {
+        // Check for changes every minute
+        pollSCM('* * * * *')
+        // Alternatively, you can use webhook triggers if your Jenkins supports it
+    }
+    
     stages {
         stage('Build') {
             steps {
