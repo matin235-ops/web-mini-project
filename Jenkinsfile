@@ -23,8 +23,8 @@ pipeline {
                                                      usernameVariable: 'DOCKER_HUB_USER', 
                                                      passwordVariable: 'DOCKER_HUB_PWD')]) {
                         bat 'docker login -u %DOCKER_HUB_USER% -p %DOCKER_HUB_PWD%'
-                        bat 'docker build -t matin235-ops/web-mini-project:latest .'
-                        bat 'docker push matin235-ops/web-mini-project:latest'
+                        bat 'docker build -t matinkhaled23/web-mini-project:latest .'
+                        bat 'docker push matinkhaled23/web-mini-project:latest'
                     }
                 }
             }

@@ -5,10 +5,10 @@ WORKDIR /app
 # Copy everything first
 COPY . .
 
-# Conditionally run npm install and build if package.json exists
+# Run npm install if package.json exists, and only run build if that script exists
 RUN if [ -f package.json ]; then \
         npm install && \
-        npm run build; \
+        (npm run build 2>/dev/null || echo "No build script found, skipping build step"); \
     else \
         echo "No package.json found, skipping npm steps"; \
     fi

@@ -4,7 +4,8 @@
     "description": "Upcoming Movies Website",
     "main": "index.html",
     "scripts": {
-        "test": "node test.js"
+        "test": "node test.js",
+        "build": "echo 'No build required for static website'"
     },
     "repository": {
         "type": "git",
